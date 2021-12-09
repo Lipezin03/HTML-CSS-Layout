@@ -323,7 +323,7 @@ a {
   .filter__heading_left-filter-h3 {
     margin-left: 0;
   }
-  .fetured_items__list:last-child {
+  .fetured_items__list_display-none {
     display: none;
   }
 }
@@ -1769,6 +1769,7 @@ a {
 .fetured_items__content-img {
   width: 100%;
   height: auto;
+  display: block;
 }
 
 .fetured_items__box__hover {

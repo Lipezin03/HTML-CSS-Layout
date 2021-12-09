@@ -300,6 +300,7 @@ a {
     &__content-img{
         width: 100%;
         height: auto;
+        display: block;
     }
 
     &__box__hover {
@@ -413,6 +414,8 @@ a {
 }
 
 .bottom-blok {
+    // background-image: url(../img/bottom__background.png);
+    // background-size: cover;
 
     position: relative;
 
